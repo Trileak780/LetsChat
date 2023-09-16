@@ -1,0 +1,36 @@
+body { 
+    background-color: #ffebcd; 
+} 
+#title { 
+    font-family: 'Nunito Sans', sans-serif; 
+} 
+.header img{ 
+    width: 80px;margin-left: -15px; 
+} 
+.login-div{ 
+    font-family: 'Mooli', sans-serif; 
+    background-color: #f5f5dc; 
+} 
+html, body { 
+    height: 100%; 
+    margin: 0; 
+}
+
+.login_div
+{
+    font-family: 'Mooli', sans-serif;
+    background: rgb(255, 255, 255);
+    float: none;
+    border-radius: 15px;
+}
+
+#login_button
+{
+    width: 80%;
+    border-radius: 15px;
+}
+
+#dark_button {
+    background-color:black;
+    color: white;
+}
